@@ -45,6 +45,7 @@ organized projects, transacted cash, advised costumers on private banking option
 
 **Languages & Software:**
 MS Office, Latex, R, Python, Stata, Thomson Reuters Datastream, Lotus Notes, Contas, Tolina and OSPlus<br>
+
 **Operating Systems:** macOS, Windows and Unix IDE
 
 # LANGUAGE SKILLS
