@@ -4,4 +4,4 @@
 
 layout: page
 ---
-### Please note: This site is currently under construction!
+**Please note: This site is currently under construction!**
