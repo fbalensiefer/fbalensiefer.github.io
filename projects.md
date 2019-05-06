@@ -5,8 +5,8 @@ permalink: /projects/
 ---
 Here I will provide information about current und upcoming projects.
 
-**This tool helps you to get productive information within the command-line
-<href>https://cheat.sh/</href>**
+*This tool helps you to get productive information within the command-line*
+[cheat.sh](https://cheat.sh/)
 
 # Introduction to Data Science with Python
 This Repository provides an overview how to analyze data with commonly used
