@@ -47,7 +47,7 @@ organized projects, transacted cash, advised costumers on private banking option
 MS Office, Stata, Thomson Reuters Datastream, Lotus Notes, Contas, Tolina and OSPlus<br>
 
 **Languages:**
-R, Python, Julia, Latex, Markdown<br>
+R, Python, Julia, Matlab, Latex, Markdown<br>
 
 **Operating Systems:** macOS, Windows and Unix IDE
 
