@@ -14,8 +14,8 @@ University of Bonn, September 2017<br>
 **Banking Professional,** *officially accredited profession*<br>
 German Chamber of Commerce and Industry, January 2014<br>
 
-**Graduation from secondary school,** *Abitur*<br>
-Paulus-Praetorius-Gymnasium Bernau , June 2011<br><br>
+<!-- **Graduation from secondary school,** *Abitur*<br>
+Paulus-Praetorius-Gymnasium Bernau , June 2011<br><br>-->
 
 # EXPERIENCE
 
