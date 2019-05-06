@@ -6,7 +6,7 @@ permalink: /cv/
 # EDUCATION
 
 **Master of Science,** *Economics*<br>
-University of Bonn, expected September 2019<br>
+University of Bonn, expected March 2020<br>
 
 **Bachelor of Science,** *Economics*<br>
 University of Bonn, September 2017<br>
@@ -43,13 +43,16 @@ organized projects, transacted cash, advised costumers on private banking option
 
 # COMPUTER SKILLS
 
-**Languages & Software:**
-MS Office, Latex, R, Python, Stata, Thomson Reuters Datastream, Lotus Notes, Contas, Tolina and OSPlus<br>
+**Software:**
+MS Office, Stata, Thomson Reuters Datastream, Lotus Notes, Contas, Tolina and OSPlus<br>
+
+**Languages:**
+R, Python, Julia, Latex, Markdown<br>
 
 **Operating Systems:** macOS, Windows and Unix IDE
 
-# LANGUAGE SKILLS
+<!-- # LANGUAGE SKILLS
 *German:* native speaker,
 *English:* fluent speaker,
 *French:* good working knowledge,
-*Spanish:* basic command,
+*Spanish:* basic command, -->
