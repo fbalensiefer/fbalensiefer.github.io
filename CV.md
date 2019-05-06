@@ -14,8 +14,8 @@ University of Bonn, September 2017<br>
 **Banking Professional,** *officially accredited profession*<br>
 German Chamber of Commerce and Industry, January 2014<br>
 
-**Graduation from secondary school,** *Abitur*<br>
-Paulus-Praetorius-Gymnasium Bernau , June 2011<br><br>
+<!-- **Graduation from secondary school,** *Abitur*<br>
+Paulus-Praetorius-Gymnasium Bernau , June 2011<br><br>-->
 
 # EXPERIENCE
 
@@ -47,7 +47,7 @@ organized projects, transacted cash, advised costumers on private banking option
 MS Office, Stata, Thomson Reuters Datastream, Lotus Notes, Contas, Tolina and OSPlus<br>
 
 **Languages:**
-R, Python, Julia, Matlab, Latex, Markdown<br>
+R, Python, Julia, Matlab, Bash, Latex, Markdown<br>
 
 **Operating Systems:** macOS, Windows and Unix IDE
 
