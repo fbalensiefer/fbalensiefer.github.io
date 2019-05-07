@@ -26,7 +26,7 @@ This repository contains exercises from a course in computational statistics, st
 [...to the Repository](https://github.com/fbalensiefer/Machine_Learning_R)
 
 # Deep Learning with Python
->*A subset of machine learning modeled loosely on the neural pathways of the human brain. Deep refers to the multiple layers between the input and output layers.*
+>*A subset of machine learning modeled loosely on the neural pathways. Deep refers to the multiple layers between the input and output layers.*
 This Repository provides an example how to implement deep learning algorithms
 in Python. We will first use data to train the neural network, while testing the
 forecasts afterwards.
