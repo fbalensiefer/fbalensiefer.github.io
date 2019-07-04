@@ -49,7 +49,7 @@ MS Office, Stata, Thomson Reuters Datastream, Lotus Notes, Contas, Tolina and OS
 **Languages:**
 R, Python, Julia, Matlab, Bash, Latex, Markdown<br>
 
-**Operating Systems:** macOS, Windows and Unix IDE
+**Operating Systems:** macOS, Windows and Linux
 
 <!-- # LANGUAGE SKILLS
 *German:* native speaker,
