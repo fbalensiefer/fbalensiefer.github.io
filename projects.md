@@ -3,7 +3,7 @@ layout: page
 title: Projects and Repositories
 permalink: /projects/
 ---
-Here I will provide information about current und upcoming projects.
+Information about current und upcoming projects:
 
 *This tool helps you to get productive information within the command-line*
 [cheat.sh](https://cheat.sh/)
