@@ -130,7 +130,7 @@ inference and produce forecasts.
 
 [...to the Repository](https://github.com/fbalensiefer/TimeSeries_R)
 
-# Simulation Study in Pyhon
+# Simulation Study in Python
 The scope of this project is to replicate the major findings from the paper "Are Credit Markets Still Local? Evidence from Bank Branch Closings" by Hoai-Luu Q. Nguyen by using Python as Data Science tool. Additionally, I create a simulated dataset to show the robustness of the identification strategy.<br>
 
 [...to the Repository](https://github.com/fbalensiefer/Python_SimulationStudy)
