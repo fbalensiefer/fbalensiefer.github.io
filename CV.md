@@ -6,7 +6,7 @@ permalink: /cv/
 # EDUCATION
 
 **Master of Science,** *Economics*<br>
-University of Bonn, expected March 2020<br>
+University of Bonn, March 2020<br>
 
 **Bachelor of Science,** *Economics*<br>
 University of Bonn, September 2017<br>
@@ -20,7 +20,7 @@ Paulus-Praetorius-Gymnasium Bernau , June 2011<br><br>-->
 # EXPERIENCE
 
 *Student Assistant*<br>
-since November 2016 <br>
+November 2016 - February 2020<br>
 Finance Group, Department of Economics, University of Bonn<br>
 researching data and literature,
 prepare meetings, support with general office work,
