@@ -48,6 +48,7 @@ plugins:
 #   - vendor/ruby/
 
 footer:
+  location: "Bonn, Germany"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
