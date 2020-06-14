@@ -25,10 +25,6 @@ search_full_content: true
 logo: #""
 repository: "fbalensiefer/fbalensiefer.github.io"
 
-#xing: Fabian_Balensiefer
-#linkedin_username: balensiefer
-#twitter: fbalensiefer1
-
 # Build settings
 markdown: kramdown
 theme: minima
@@ -47,18 +43,10 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-footer:
-  location: "Bonn, Germany"
-  links:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/balensiefer/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/fbalensiefer1"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/fbalensiefer"
-    #- label: "Instagram"
-    #  icon: "fab fa-fw fa-instagram"
-    #  url: "https://instagram.com/"
+minima:
+	social_links:
+		github: fbalensiefer
+		linkedin: balensiefer
+		xing:	fbalensiefer
+		twitter: fbalensiefer1
+
