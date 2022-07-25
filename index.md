@@ -14,7 +14,7 @@ layout: page
 </colgroup>
 <tbody>
 <tr>
-<td markdown="span">![(c) Fabian Balensiefer](profilepic.jpg)</td>
+<td markdown="span">![(c) Fabian Balensiefer](5DIV2041.jpg)</td>
 <td markdown="span">*Welcome to my website!*<br></td>
 </tr>
 <tr>
