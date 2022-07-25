@@ -23,5 +23,5 @@ layout: page
 </tr>
 </tbody>
 </table> -->
-![(c) Fabian Balensiefer](profilepic.jpg)
+![(c) Fabian Balensiefer](5DIV2041.jpg)
 ### Welcome to my website!
