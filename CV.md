@@ -24,7 +24,7 @@ since June 2020<br>
 Federal Financial Supervisory Authority (BaFin), Bonn<br>
 monitoring risks associated with the financial institution portfolio according to the requirements set in the regulations and instructions,
 checking compliance by banks/financial institutions with laws and regulations and propose the imposition of sanctions in the events of non-compliance,
-review and analyse banks and financial institutions reports to determine their compliance with the prudential requirement and to evaluate performance, evolution, management, conduct follow up on-site examination, licensing of payment institutions and e-money institutions
+review and analyse banks and financial institutions reports to determine their compliance with the prudential requirement and to evaluate performance, evolution, management, licensing of payment institutions and e-money institutions, policy issues relating to supervision under the payment services oversight act (ZAG) and crypto custody business
 
 *Student Assistant*<br>
 November 2016 - February 2020<br>
