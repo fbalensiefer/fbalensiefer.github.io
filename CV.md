@@ -19,7 +19,7 @@ Paulus-Praetorius-Gymnasium Bernau , June 2011<br><br>-->
 
 # EXPERIENCE
 
-*Advisor Banking Supervision*<br>
+*Advisor Policy Issues*<br>
 since August 2021<br>
 policy issues relating to supervision under the Payment Services Oversight Act (ZAG) and crypto custody business,
 elaboration of legislative proposals, development of proposals for the implementation of legislative changes, preparing
