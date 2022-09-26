@@ -21,6 +21,7 @@ Paulus-Praetorius-Gymnasium Bernau , June 2011<br><br>-->
 
 *Advisor Policy Issues*<br>
 since August 2021<br>
+Federal Financial Supervisory Authority (BaFin), Bonn<br>
 policy issues relating to supervision under the Payment Services Oversight Act (ZAG) and crypto custody business,
 elaboration of legislative proposals, development of proposals for the implementation of legislative changes, preparing
 reports that outline the implications of proposed legislation or other policy changes, reviewing proposed laws for
