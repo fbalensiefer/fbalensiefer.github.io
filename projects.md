@@ -130,6 +130,11 @@ inference and produce forecasts.
 
 [...to the Repository](https://github.com/fbalensiefer/TimeSeries_R)
 
+# Interactive Networks Visualisation with Python
+Python, a versatile and widely-used programming language, offers numerous libraries and tools to create interactive network graph visualizations. In this Repository, we will explore the key components and popular Python libraries that enable the creation of interactive network graph visualizations.
+
+[...to the Repository](https://github.com/fbalensiefer/Interactive_Network_Visualisations)
+
 # Simulation Study in Python
 The scope of this project is to replicate the major findings from the paper "Are Credit Markets Still Local? Evidence from Bank Branch Closings" by Hoai-Luu Q. Nguyen by using Python as Data Science tool. Additionally, I create a simulated dataset to show the robustness of the identification strategy.<br>
 
