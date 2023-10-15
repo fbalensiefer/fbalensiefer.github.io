@@ -19,8 +19,13 @@ Paulus-Praetorius-Gymnasium Bernau , June 2011<br><br>-->
 
 # EXPERIENCE
 
+*Advisor Financial Market Policy*<br>
+since January 2023<br>
+Federal Chancellery (Bundeskanzleramt), Berlin<br>
+Policy issues and analysis on financial market economics and law. Conduct analyses and briefings on financial market policy, regulatory frameworks, and related economic indicators. Advise policy makers and senior officials on financial market issues. Assess the impact of financial regulations and developments in financial markets. Engage in discussions with stakeholders, including financial institutions, industry associations, and experts, on current financial market policy issues. Participate in the drafting of legislative proposals and policy documents related to financial market regulation. Representing the federal government in meetings with international organizations and partners to coordinate financial policy measures.
+
 *Advisor Policy Issues*<br>
-since August 2021<br>
+August 2021 - January 2023<br>
 Federal Financial Supervisory Authority (BaFin), Bonn<br>
 policy issues relating to supervision under the Payment Services Oversight Act (ZAG) and crypto custody business,
 elaboration of legislative proposals, development of proposals for the implementation of legislative changes, preparing
