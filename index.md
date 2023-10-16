@@ -10,7 +10,7 @@ layout: page
 <table border="0">
 <tr>
 <td>![(c) Fabian Balensiefer](portrait.jpg)</td>
-<td>*Welcome to my website!*
+<td><b>Welcome to my website!<\b>
 
 I'm Fabian, the creator and curator of this online space. I'm passionate about the world of programming, data science, deep learning and statistics. I've created this platform to share my insights, experiences and knowledge in these exciting fields.
 
