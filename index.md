@@ -17,6 +17,8 @@ Whether you're an experienced programmer, a data enthusiast, or someone new to t
 
 Thank you for visiting, and I'm excited to be on this journey with you. Enjoy your exploration!
 
+[Click here to see my most recent project](https://nbviewer.org/github/fbalensiefer/Interactive_Network_Visualisations/blob/9c52ad772b0e0a36dea978661ed0b4bf74431aa9/InteracNetwVis.ipynb)
+
 Best regards,
 
 Fabian
