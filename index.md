@@ -7,21 +7,9 @@
 
 layout: page
 ---
-<!-- <table>
-<colgroup>
-<col width="30%" />
-<col width="70%" />
-</colgroup>
-<tbody>
+<table border="0">
 <tr>
 <td markdown="span">![(c) Fabian Balensiefer](portrait.jpg)</td>
 <td markdown="span">*Welcome to my website!*<br></td>
 </tr>
-<tr>
-<td markdown="span"></td>
-<td markdown="span">**Please note: This site is currently under construction!**</td>
-</tr>
-</tbody>
-</table> -->
-![(c) Fabian Balensiefer](portrait.jpg)
-### Welcome to my website!
+</table>
