@@ -12,6 +12,7 @@ layout: page
 <td>![(c) Fabian Balensiefer](portrait.jpg)</td>
 <td><b>Welcome to my website!</b>
 
+
 I'm Fabian, the creator and curator of this online space. I'm passionate about the world of programming, data science, deep learning and statistics. I've created this platform to share my insights, experiences and knowledge in these exciting fields.
 
 Whether you're an experienced programmer, a data enthusiast, or someone new to the world of statistics and deep learning, I hope you'll find valuable content to inform and inspire you. Please feel free to explore the site, engage with the articles, and join our growing community. 
