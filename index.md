@@ -7,7 +7,9 @@
 
 layout: page
 ---
-<img align="right" width="400" height="600" src="portrait.jpg"> ## Welcome to my website!
+<img align="left" width="400" height="600" src="portrait.jpg">  
+
+## Welcome to my website!
 
 I'm Fabian, the creator and curator of this online space. I'm passionate about the world of programming, data science, deep learning and statistics. I've created this platform to share my insights, experiences and knowledge in these exciting fields.
 
