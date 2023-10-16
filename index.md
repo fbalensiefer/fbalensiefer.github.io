@@ -7,8 +7,7 @@
 
 layout: page
 ---
-{:style="clear: left"}
-![(c) Fabian Balensiefer](portrait.jpg){: .align-left}  
+![(c) Fabian Balensiefer](portrait.jpg)
 
 ## Welcome to my website!
 
