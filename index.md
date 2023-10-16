@@ -25,5 +25,3 @@ layout: page
 </table> -->
 ### Welcome to my website!
 ![(c) Fabian Balensiefer](portrait.jpg)
-
-[Click here to see my most recent project](https://nbviewer.org/github/fbalensiefer/Interactive_Network_Visualisations/blob/main/InteracNetwVis.ipynb)
