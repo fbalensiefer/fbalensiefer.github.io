@@ -15,8 +15,7 @@ layout: page
 <tbody>
 <tr>
 <td markdown="span">![(c) Fabian Balensiefer](portrait.jpg)</td>
-<td markdown="span">*Welcome to my website!*<br>
-[Click here to see my most recent project](https://nbviewer.org/github/fbalensiefer/Interactive_Network_Visualisations/blob/main/InteracNetwVis.ipynb)<br></td>
+<td markdown="span">*Welcome to my website!*<br></td>
 </tr>
 <tr>
 <td markdown="span"></td>
@@ -26,3 +25,4 @@ layout: page
 </table> -->
 ![(c) Fabian Balensiefer](portrait.jpg)
 ### Welcome to my website!
+[Click here to see my most recent project](https://nbviewer.org/github/fbalensiefer/Interactive_Network_Visualisations/blob/main/InteracNetwVis.ipynb)
