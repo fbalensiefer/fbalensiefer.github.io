@@ -17,7 +17,7 @@ and matplotlib. Useful cheatsheets can be downloaded: <br>
 
 [...to the Repository](https://github.com/fbalensiefer/Introduction_Python)
 
-# Statistical Learning/ Machine Learning in R
+# Statistical Learning/ Machine Learning with R
 >*Statistical learning theory is a framework for **machine learning**
  drawing from the fields of statistics and functional analysis.*
 
@@ -123,8 +123,8 @@ forecasts afterwards.
 
 [...to the Repository](https://github.com/fbalensiefer/Deep_Learning_Python)
 
-# Time Series in R
-This Repository contains a basic introduction to Time Series analysis in R.
+# Time Series with R
+This Repository contains a basic introduction to Time Series analysis with R.
 We learn how to:implement dynamic regression models, model selection & correction,
 inference and produce forecasts.
 
@@ -135,7 +135,7 @@ Python, a versatile and widely-used programming language, offers numerous librar
 
 [...to the Repository](https://github.com/fbalensiefer/Interactive_Network_Visualisations)
 
-# Simulation Study in Python
+# Simulation Study with Python
 The scope of this project is to replicate the major findings from the paper "Are Credit Markets Still Local? Evidence from Bank Branch Closings" by Hoai-Luu Q. Nguyen by using Python as Data Science tool. Additionally, I create a simulated dataset to show the robustness of the identification strategy.<br>
 
 [...to the Repository](https://github.com/fbalensiefer/Python_SimulationStudy)
