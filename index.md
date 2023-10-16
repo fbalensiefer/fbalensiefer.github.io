@@ -23,6 +23,4 @@ layout: page
 </tr>
 </tbody>
 </table> -->
-![(c) Fabian Balensiefer](portrait.jpg)
-### Welcome to my website!
-[Click here to see my most recent project](https://nbviewer.org/github/fbalensiefer/Interactive_Network_Visualisations/blob/main/InteracNetwVis.ipynb)
+![(c) Fabian Balensiefer](portrait.jpg) ### Welcome to my website! [Click here to see my most recent project](https://nbviewer.org/github/fbalensiefer/Interactive_Network_Visualisations/blob/main/InteracNetwVis.ipynb)
