@@ -4,6 +4,7 @@ title: Projects and Repositories
 permalink: /projects/
 ---
 Information about current und upcoming projects:
+[Click here to see my most recent project](https://nbviewer.org/github/fbalensiefer/Interactive_Network_Visualisations/blob/main/InteracNetwVis.ipynb)
 
 *This tool helps you to get productive information within the command-line*
 [cheat.sh](https://cheat.sh/)
