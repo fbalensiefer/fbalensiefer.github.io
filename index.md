@@ -7,7 +7,7 @@
 
 layout: page
 ---
-![(c) Fabian Balensiefer](portrait.jpg){: sytle="float: left"; margin-right: 10em}  
+![(c) Fabian Balensiefer](portrait.jpg){: style="float: left"; margin-right: 10em}  
 
 ## Welcome to my website!
 
