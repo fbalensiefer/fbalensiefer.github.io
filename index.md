@@ -9,4 +9,4 @@ layout: page
 ---
 <img align="left" width="400" height="600" src="portrait.jpg">  
 
-##    Welcome to my website!
+## &emsp; Welcome to my website!
