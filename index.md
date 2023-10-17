@@ -7,6 +7,6 @@
 
 layout: page
 ---
-[(c) Fabian Balensiefer](portrait.jpg)  
+![(c) Fabian Balensiefer](portrait.jpg)  
 
 ## Welcome to my website!
