@@ -3,14 +3,17 @@ layout: page
 title: About
 permalink: /about/
 ---
+I'm Fabian, the creator and curator of this online space. I'm passionate about the world of programming, data science, deep learning and statistics. I've created this platform to share my insights, experiences and knowledge in these exciting fields.
 
-This is my personal website.
+Whether you're an experienced programmer, a data enthusiast, or someone new to the world of statistics and deep learning, I hope you'll find valuable content to inform and inspire you. Please feel free to explore the site, engage with the differnt programming applications. 
 
-The scope of this website is especially in data science and the
-different applications of programming techniques.
-In general, I am interested in finance & banking, statistics, econometrics and programming.
+Thank you for visiting, and I'm excited to be on this journey with you. Enjoy your exploration!
 
-This site publishes some selected projects I am working on.
+[Click here to see my most recent project](https://nbviewer.org/github/fbalensiefer/Interactive_Network_Visualisations/blob/9c52ad772b0e0a36dea978661ed0b4bf74431aa9/InteracNetwVis.ipynb)
+
+Best regards,
+
+Fabian
 
 > **Disclaimer:** \
 *The ideas, views and opinions expressed in my posts and profiles represent my own views and not those of any of my current or previous employer or positions.
