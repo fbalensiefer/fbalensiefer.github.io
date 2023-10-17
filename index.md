@@ -10,15 +10,3 @@ layout: page
 <img align="left" width="400" height="600" src="portrait.jpg">  
 
 ## Welcome to my website!
-
-I'm Fabian, the creator and curator of this online space. I'm passionate about the world of programming, data science, deep learning and statistics. I've created this platform to share my insights, experiences and knowledge in these exciting fields.
-
-Whether you're an experienced programmer, a data enthusiast, or someone new to the world of statistics and deep learning, I hope you'll find valuable content to inform and inspire you. Please feel free to explore the site, engage with the differnt programming applications. 
-
-Thank you for visiting, and I'm excited to be on this journey with you. Enjoy your exploration!
-
-[Click here to see my most recent project](https://nbviewer.org/github/fbalensiefer/Interactive_Network_Visualisations/blob/9c52ad772b0e0a36dea978661ed0b4bf74431aa9/InteracNetwVis.ipynb)
-
-Best regards,
-
-Fabian
