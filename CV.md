@@ -65,7 +65,7 @@ organized projects, transacted cash, advised costumers on private banking option
 # COMPUTER SKILLS
 
 **Software:**
-MS Office, Stata, Thomson Reuters Eikon and Datastream, Cisco WEBEX, Lotus Notes, Contas, Tolina and OSPlus<br>
+MS Office, Stata, Thomson Reuters Eikon and Datastream, Lotus Notes, Contas, Tolina and OSPlus<br>
 
 **Languages:**
 R, Python, Julia, Matlab, Bash, Latex, Markdown<br>
