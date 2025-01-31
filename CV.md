@@ -19,8 +19,15 @@ Paulus-Praetorius-Gymnasium Bernau , June 2011<br><br>-->
 
 # EXPERIENCE
 
+*Advisor Banking Supervision*<br>
+since January 2025, June 2020 - July 2021<br>
+Federal Financial Supervisory Authority (BaFin), Bonn<br>
+monitoring risks associated with the financial institution portfolio according to the requirements set in the regulations and instructions,
+checking compliance by banks/financial institutions with laws and regulations and propose the imposition of sanctions in the events of non-compliance,
+review and analyse banks and financial institutions reports to determine their compliance with the prudential requirement and to evaluate performance, evolution, management, licensing of payment institutions and e-money institutions
+
 *Advisor Financial Market Policy*<br>
-since January 2023<br>
+January 2023 - January 2025<br>
 Federal Chancellery (Bundeskanzleramt), Berlin<br>
 policy issues and analysis on financial market economics and law, conduct analyses and briefings on financial market policy, regulatory frameworks, and related economic indicators, advise policy makers and senior officials on financial market issues, assess the impact of financial regulations and developments in financial markets, engage in discussions with stakeholders, including financial institutions, industry associations, and experts, on current financial market policy issues, participate in the drafting of legislative proposals and policy documents related to financial market regulation.
 
@@ -33,13 +40,6 @@ reports that outline the implications of proposed legislation or other policy ch
 possible impact, performing research on topics related to public policy issues in order to develop informed opinions
 about potential courses of action, coordinating with supervisory bodies to ensure compliance with applicable laws and
 regulations, participation in assessment examination conducted by international organizations (FATF, FSAP)
-
-*Advisor Banking Supervision*<br>
-June 2020 - July 2021<br>
-Federal Financial Supervisory Authority (BaFin), Bonn<br>
-monitoring risks associated with the financial institution portfolio according to the requirements set in the regulations and instructions,
-checking compliance by banks/financial institutions with laws and regulations and propose the imposition of sanctions in the events of non-compliance,
-review and analyse banks and financial institutions reports to determine their compliance with the prudential requirement and to evaluate performance, evolution, management, licensing of payment institutions and e-money institutions
 
 *Student Assistant*<br>
 November 2016 - February 2020<br>
