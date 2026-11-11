@@ -166,11 +166,85 @@
     </article>
      <!-- Project 03: Next-Concept Modeling for TPU -->
 <article class="project-card">
-  <div class="project-art art-ml">
-    <span class="art-label">GENERATION / NCM</span>
-    <div class="formula">coarse <span>→</span> fine</div>
-    <div class="formula-rule"></div>
-    <div class="formula-caption">HIERARCHICAL TEXT GENERATION</div>
+  <div class="project-art" style="background: #e5eee7;">
+    <span class="art-label">Next-Concept Modeling for TPU</span>
+
+    <svg
+      viewBox="0 0 600 250"
+      width="100%"
+      height="100%"
+      role="img"
+      aria-label="Hierarchical code sequences progressing from coarse to fine"
+      preserveAspectRatio="xMidYMid meet"
+    >
+      <defs>
+        <g id="ncm-code-cell">
+          <rect
+            width="42"
+            height="27"
+            rx="3"
+            stroke="#86a792"
+          />
+          <path
+            d="M12 10h12 M12 17h18"
+            fill="none"
+            stroke="#52765f"
+            stroke-width="1.5"
+            opacity=".65"
+          />
+        </g>
+      </defs>
+
+      <!-- Coarse codes -->
+      <g fill="#cfdfd4">
+        <use href="#ncm-code-cell" x="99" y="65" />
+        <use href="#ncm-code-cell" x="150" y="65" />
+      </g>
+
+      <!-- Intermediate codes -->
+      <g fill="#b1cbbb">
+        <use href="#ncm-code-cell" x="99" y="107" />
+        <use href="#ncm-code-cell" x="150" y="107" />
+        <use href="#ncm-code-cell" x="201" y="107" />
+        <use href="#ncm-code-cell" x="252" y="107" />
+      </g>
+
+      <!-- Fine codes -->
+      <g fill="#8caf99">
+        <use href="#ncm-code-cell" x="99" y="149" />
+        <use href="#ncm-code-cell" x="150" y="149" />
+        <use href="#ncm-code-cell" x="201" y="149" />
+        <use href="#ncm-code-cell" x="252" y="149" />
+        <use href="#ncm-code-cell" x="303" y="149" />
+        <use href="#ncm-code-cell" x="354" y="149" />
+        <use href="#ncm-code-cell" x="405" y="149" />
+        <use href="#ncm-code-cell" x="456" y="149" />
+      </g>
+
+      <path
+        d="M308 180v16"
+        fill="none"
+        stroke="#6f927a"
+        stroke-width="1.5"
+      />
+
+      <rect
+        x="99"
+        y="202"
+        width="399"
+        height="28"
+        rx="3"
+        fill="#f2f7f3"
+        stroke="#b6cbbd"
+      />
+      <text
+        x="113"
+        y="220"
+        font-family="monospace"
+        font-size="12"
+        fill="#365b47"
+      >&gt;&gt;&gt; decode(codes)</text>
+    </svg>
   </div>
 
   <div class="project-info">
