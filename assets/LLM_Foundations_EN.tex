@@ -221,7 +221,6 @@ $\hat y=2$, error $\hat y-y=-3$, $L=4.5$.
 $m'=1-0.1(-6)=1.6$, $b'=0.3$.\\
 New prediction: $3.5$; new loss: $L'=1.125$.
 \end{columns}
-\src{Supplement: backpropagation computes gradients; an optimizer uses them to update parameters.}
 \end{frame}
 
 % 06 ---------------------------------------------------------------
@@ -252,7 +251,7 @@ Without nonlinearity, several affine layers would still compose to \textbf{one a
 
 More parameters increase capacity, but do not guarantee quality. Data, architecture and training must work together.
 \end{columns}
-\src{Supplement: schematic network with ReLU. Overfitting means fitting training data while generalizing poorly to new data.}
+\src{Supplement: Overfitting means fitting training data while generalizing poorly to new data.}
 \end{frame}
 
 % 07 ---------------------------------------------------------------
@@ -313,7 +312,6 @@ A vector with 3 components has shape $(3)$ and order 1.}
 \]
 \end{columns}
 \msg{The three numbers specify a position; the same vector can be drawn as an arrow from the origin.}
-\src{Supplement: a three-dimensional example shown as a perspective drawing on a two-dimensional page.}
 \end{frame}
 
 % 09 ---------------------------------------------------------------
@@ -351,7 +349,6 @@ A vector with 3 components has shape $(3)$ and order 1.}
 \end{adjustbox}
 \end{columns}
 \msg{Addition works component by component. A positive factor changes the length; a negative factor reverses the direction.}
-\src{Supplement: 2D simplifies the drawing; the same rules apply in any dimension.}
 \end{frame}
 
 % 10 ---------------------------------------------------------------
@@ -417,7 +414,6 @@ y_3&=\w2\cdot\dat2+\w0\cdot\dat3+\w1\cdot\dat1=\vv5.
 \end{adjustbox}
 \end{columns}
 \msg{The same calculation can be understood as \textbf{weighted sums} or as a \textbf{geometric transformation}.}
-\src{Supplement: $W$ is constructed for this example. In a network, suitable weights are learned.}
 \end{frame}
 
 % 12 ---------------------------------------------------------------
@@ -581,12 +577,10 @@ v_{\text{cats}}-v_{\text{cat}}\\
 \end{aligned}
 \]
 \end{columns}
-\src{\cite{sanderson2024} Illustrative approximations, not universal laws. The video also notes deviations for king/queen.\\
-The plotted points are constructed, not measured embeddings; language data may contain stereotypes.}
 \end{frame}
 
 % 17 ---------------------------------------------------------------
-\section[Product]{Skalarprodukt}
+\section[Product]{Dot product}
 \begin{frame}[fragile]{Dot product: multiply pairs, then add}
 \begin{columns}[T,onlytextwidth]
 \column{.43\textwidth}
@@ -652,7 +646,7 @@ In general, \textbf{vector lengths also affect} the result.
 \small \textbf{Cosine similarity} isolates direction:\\
 $\cos\theta=(a\cdot b)/(\|a\|\|b\|)$ for $a,b\ne0$.
 \end{columns}
-\src{\cite{sanderson2024} Connection to attention: dot products of learned projections produce compatibility scores. Details are covered in Chapter 6 of the video series.}
+\src{\cite{sanderson2024} Connection to attention: dot products of learned projections produce compatibility scores.}
 \end{frame}
 
 % 19 ---------------------------------------------------------------
@@ -757,8 +751,7 @@ Colours: orange = tokens; blue = parameters; green = representations; red = scor
 \textbf{MLP}, multilayer perceptron: apply the same nonlinear transformation to each position, without direct exchange between positions.\\[3mm]
 Repeated blocks produce increasingly contextual representations.
 \end{columns}
-\src{\cite{sanderson2024,vaswani2017} Schematic overview following Chapter 5; query, key and value are not derived here.\\
-Supplement: GPT uses causal masking to prevent access to future tokens. Residual connections and normalization are omitted for clarity.}
+\src{Supplement: GPT uses causal masking to prevent access to future tokens. Residual connections and normalization are omitted for clarity.}
 \end{frame}
 
 % 23 ---------------------------------------------------------------
@@ -793,8 +786,7 @@ Total: about $175$ billion parameters.
 \]
 \end{columns}
 \msg{\textbf{Parameters} are learned tables. The \textbf{activations} in $H$ depend on the input text.}
-\src{\cite{sanderson2024,brown2020} Figures: 3Blue1Brown, Chapter 5; Brown et al. (2020), GPT-3 175B. These are not specifications of current ChatGPT models.\\
-Supplement: embedding and unembedding can share weights; matching shapes need not imply extra independent parameters.}
+\src{Supplement: embedding and unembedding can share weights; matching shapes need not imply extra independent parameters.}
 \end{frame}
 
 % 24 ---------------------------------------------------------------
@@ -822,8 +814,6 @@ Supplement: embedding and unembedding can share weights; matching shapes need no
 \end{tikzpicture}
 \end{adjustbox}
 \end{columns}
-\src{\cite{sanderson2024} Constructed output example: from here, $d=2$, $V=3$, separate from the embedding example. Bias omitted.\\
-Logits may be negative or exceed 1; their sum is unrestricted. Unembedding is not an inverse embedding operation.}
 \end{frame}
 
 % 25 ---------------------------------------------------------------
@@ -864,7 +854,6 @@ This is a suitable choice, though other normalizations are possible.
 \end{tikzpicture}
 \end{adjustbox}
 \end{columns}
-\src{\cite{sanderson2024} Own calculation; rounding differences may occur. For numerical stability, subtract $\max_j z_j$ from every logit before exponentiating.}
 \end{frame}
 
 % 26 ---------------------------------------------------------------
@@ -885,8 +874,6 @@ This is a suitable choice, though other normalizations are possible.
 \bars{$T=2$}{50.6}{30.7}{18.6}\par
 \small\textbf{High:} flatter distribution, more randomness.
 \end{columns}
-\src{\cite{sanderson2024} Own calculation. Greater diversity does not guarantee creativity or correctness. As $T\to\infty$, the distribution becomes uniform.\\
-With a unique maximum, all probability concentrates there as $T\to0^+$. The setting ``$T=0$'' uses argmax selection, not division by zero.}
 \end{frame}
 
 % 27 ---------------------------------------------------------------
